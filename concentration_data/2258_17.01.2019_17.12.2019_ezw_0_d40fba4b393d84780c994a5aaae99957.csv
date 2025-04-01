@@ -1,0 +1,21 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 15:32"
+Zeitbezug:;MEZ
+Messstellen-Name:;"Steg uh. Hinterstein"
+Messstellen-Nr.:;2258
+Gewässer:;Ostrach
+Ostwert:;606018;Nordwert:;5259117;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2019-01-17 09:45:00";1,6;"< BG";Geprueft
+"2019-02-14 09:45:00";1,7;"< BG";Geprueft
+"2019-03-14 09:30:00";1,4;"< BG";Geprueft
+"2019-04-11 10:00:00";1,4;"< BG";Geprueft
+"2019-05-09 10:00:00";1,3;"< BG";Geprueft
+"2019-06-06 09:50:00";1,1;"< BG";Geprueft
+"2019-07-04 00:00:00";0,7;"< BG";Geprueft
+"2019-08-01 09:50:00";0,9;"< BG";Geprueft
+"2019-08-29 09:30:00";1,00;"< BG";Geprueft
+"2019-09-26 09:40:00";1,1;"< BG";Geprueft
+"2019-10-23 09:45:00";1,2;"< BG";Geprueft
+"2019-11-28 09:35:00";1,2;"< BG";Geprueft
