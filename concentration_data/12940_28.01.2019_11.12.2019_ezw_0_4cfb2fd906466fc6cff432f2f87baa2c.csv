@@ -1,0 +1,21 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 16:13"
+Zeitbezug:;MEZ
+Messstellen-Name:;"vor Muendung"
+Messstellen-Nr.:;12940
+Gewässer:;"Kößlarner Bach"
+Ostwert:;827563;Nordwert:;5374386;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2019-01-28 08:20:00";26,00;0,008;Geprueft
+"2019-02-25 09:00:00";27,00;"< BG";Geprueft
+"2019-03-25 07:30:00";23,00;"< BG";Geprueft
+"2019-04-08 07:50:00";28,00;"< BG";Geprueft
+"2019-05-08 10:15:00";25,00;0,005;Geprueft
+"2019-06-25 09:45:00";16,00;0,01;Geprueft
+"2019-07-09 00:00:00";18,00;"< BG";Geprueft
+"2019-07-22 08:15:00";18,00;0,009;Geprueft
+"2019-08-20 00:00:00";20,00;0,01;Geprueft
+"2019-09-25 09:35:00";19,00;0,009;Geprueft
+"2019-10-21 09:00:00";22,00;0,009;Geprueft
+"2019-11-14 08:15:00";22,00;0,009;Geprueft

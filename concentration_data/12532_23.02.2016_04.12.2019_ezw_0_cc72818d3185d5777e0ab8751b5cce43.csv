@@ -1,0 +1,29 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 15:44"
+Zeitbezug:;MEZ
+Messstellen-Name:;"südöstl. Neuhausen"
+Messstellen-Nr.:;12532
+Gewässer:;Rettenbach
+Ostwert:;771706;Nordwert:;5313721;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2016-02-23 10:30:00";12,00;0,031;Geprueft
+"2016-03-21 14:15:00";6,6;0,021;Geprueft
+"2016-04-18 15:20:00";8,00;0,038;Geprueft
+"2016-05-23 13:55:00";5,8;0,04;Geprueft
+"2016-06-20 15:05:00";4,9;0,041;Geprueft
+"2016-07-18 15:00:00";4,9;0,039;Geprueft
+"2016-08-01 15:30:00";4,9;0,042;Geprueft
+"2016-08-22 14:20:00";2,7;0,04;Geprueft
+"2016-09-26 14:55:00";5,3;0,032;Geprueft
+"2016-10-10 14:05:00";3,5;0,028;Geprueft
+"2016-11-07 14:15:00";5,3;0,062;Geprueft
+"2016-12-13 14:10:00";6,2;0,03;Geprueft
+"2019-01-28 12:50:00";8,4;0,019;Geprueft
+"2019-02-12 11:40:00";8,4;0,026;Geprueft
+"2019-03-12 11:50:00";7,3;0,022;Geprueft
+"2019-04-09 11:40:00";5,5;0,008;Geprueft
+"2019-05-07 11:50:00";4,00;0,024;Geprueft
+"2019-06-04 14:37:00";3,6;0,033;Geprueft
+"2019-07-30 11:45:00";5,3;0,027;Geprueft
+"2019-11-19 10:45:00";4,2;0,023;Geprueft

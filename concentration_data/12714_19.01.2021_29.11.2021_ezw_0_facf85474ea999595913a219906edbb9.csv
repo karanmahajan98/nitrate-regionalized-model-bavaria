@@ -1,0 +1,20 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 16:21"
+Zeitbezug:;MEZ
+Messstellen-Name:;"Zollbr. Freilassing"
+Messstellen-Nr.:;12714
+Gewässer:;Saalach
+Ostwert:;798960;Nordwert:;5305808;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2021-01-19 14:20:00";4,3;"< BG";Geprueft
+"2021-02-08 14:00:00";3,8;"< BG";Geprueft
+"2021-03-08 13:20:00";3,6;"< BG";Geprueft
+"2021-04-12 14:15:00";3,4;"< BG";Geprueft
+"2021-05-25 12:20:00";2,7;0,005;Geprueft
+"2021-06-14 13:40:00";2,7;"< BG";Geprueft
+"2021-07-12 15:30:00";2,9;0,006;Geprueft
+"2021-08-09 15:25:00";2,9;"< BG";Geprueft
+"2021-09-14 14:35:00";3,4;"< BG";Geprueft
+"2021-10-04 14:05:00";3,4;"< BG";Geprueft
+"2021-11-02 13:20:00";3,3;0,008;Geprueft

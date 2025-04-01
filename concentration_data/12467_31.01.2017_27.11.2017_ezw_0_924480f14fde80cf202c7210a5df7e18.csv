@@ -1,0 +1,20 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 15:56"
+Zeitbezug:;MEZ
+Messstellen-Name:;"uh. Br. Brandstätt"
+Messstellen-Nr.:;12467
+Gewässer:;"Urschlauer Achen"
+Ostwert:;772791;Nordwert:;5295130;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2017-01-31 10:25:00";3,6;0,01;Geprueft
+"2017-02-20 08:55:00";3,5;"< BG";Geprueft
+"2017-03-20 08:55:00";3,4;"< BG";Geprueft
+"2017-04-18 08:00:00";3,00;"< BG";Geprueft
+"2017-05-15 08:45:00";3,00;"< BG";Geprueft
+"2017-06-12 08:30:00";3,00;"< BG";Geprueft
+"2017-07-10 09:00:00";2,8;"< BG";Geprueft
+"2017-08-07 08:15:00";2,3;"< BG";Geprueft
+"2017-09-04 10:15:00";2,7;"< BG";Geprueft
+"2017-10-02 09:40:00";2,7;"< BG";Geprueft
+"2017-11-07 09:01:00";2,8;0,007;Geprueft

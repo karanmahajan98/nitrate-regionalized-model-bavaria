@@ -1,0 +1,21 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 13:37"
+Zeitbezug:;MEZ
+Messstellen-Name:;"300 m uh.KW Stammham"
+Messstellen-Nr.:;12587
+Gewässer:;Inn
+Ostwert:;787308;Nordwert:;5351172;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2018-01-15 11:00:00";6,4;0,011;Geprueft
+"2018-02-19 10:45:00";6,9;0,011;Geprueft
+"2018-03-19 11:30:00";6,7;0,006;Geprueft
+"2018-04-16 11:40:00";4,2;0,006;Geprueft
+"2018-05-14 11:17:00";2,1;0,008;Geprueft
+"2018-06-11 11:15:00";2,2;"< BG";Geprueft
+"2018-07-09 11:30:00";2,2;0,007;Geprueft
+"2018-07-30 10:15:00";2,4;"< BG";Geprueft
+"2018-08-27 11:25:00";2,8;0,009;Geprueft
+"2018-09-24 11:10:00";3,6;0,005;Geprueft
+"2018-10-22 11:45:00";3,8;"< BG";Geprueft
+"2018-11-19 12:20:00";4,3;0,006;Geprueft

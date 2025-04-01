@@ -1,0 +1,21 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 15:26"
+Zeitbezug:;MEZ
+Messstellen-Name:;"Poing, oh. Insel; Fkm 54,1"
+Messstellen-Nr.:;12438
+Gewässer:;Alz
+Ostwert:;761692;Nordwert:;5319089;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2019-01-15 14:30:00";3,7;"< BG";Geprueft
+"2019-02-04 14:30:00";2,9;0,008;Geprueft
+"2019-02-25 13:45:00";3,1;"< BG";Geprueft
+"2019-03-25 12:40:00";3,00;"< BG";Geprueft
+"2019-04-23 17:05:00";2,8;"< BG";Geprueft
+"2019-05-20 14:45:00";2,6;"< BG";Geprueft
+"2019-06-25 12:25:00";2,1;"< BG";Geprueft
+"2019-07-15 12:35:00";1,9;"< BG";Geprueft
+"2019-08-12 14:20:00";1,8;"< BG";Geprueft
+"2019-09-09 14:35:00";1,8;"< BG";Geprueft
+"2019-10-07 14:20:00";2,1;0,007;Geprueft
+"2019-11-04 15:12:00";2,1;"< BG";Geprueft

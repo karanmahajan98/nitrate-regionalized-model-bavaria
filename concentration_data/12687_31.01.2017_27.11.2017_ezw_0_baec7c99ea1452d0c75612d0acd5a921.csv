@@ -1,0 +1,20 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 13:37"
+Zeitbezug:;MEZ
+Messstellen-Name:;"200 m oh. Br.B305"
+Messstellen-Nr.:;12687
+Gewässer:;Weißbach
+Ostwert:;785097;Nordwert:;5289870;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2017-01-31 11:10:00";5,1;0,014;Geprueft
+"2017-02-20 09:35:00";5,6;0,011;Geprueft
+"2017-03-20 09:45:00";4,6;"< BG";Geprueft
+"2017-04-18 08:30:00";5,1;0,008;Geprueft
+"2017-05-15 09:30:00";5,5;"< BG";Geprueft
+"2017-06-12 09:40:00";4,4;0,01;Geprueft
+"2017-07-10 09:45:00";4,4;0,012;Geprueft
+"2017-08-07 09:00:00";3,2;0,008;Geprueft
+"2017-09-04 10:55:00";3,7;0,006;Geprueft
+"2017-10-02 10:22:00";4,3;0,008;Geprueft
+"2017-11-07 09:40:00";4,3;"< BG";Geprueft

@@ -1,0 +1,29 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 14:18"
+Zeitbezug:;MEZ
+Messstellen-Name:;"Brücke Seebruck"
+Messstellen-Nr.:;12417
+Gewässer:;Alz
+Ostwert:;759889;Nordwert:;5314809;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2010-02-01 15:20:00";;"< BG";Geprueft
+"2010-03-10 13:32:00";;"< BG";Geprueft
+"2010-04-21 12:30:00";;"< BG";Geprueft
+"2010-06-01 11:13:00";;0,01;Geprueft
+"2010-07-19 14:31:00";;"< BG";Geprueft
+"2010-08-25 18:15:00";;"< BG";Geprueft
+"2010-10-19 14:00:00";;"< BG";Geprueft
+"2010-12-01 13:50:00";;"< BG";Geprueft
+"2016-01-18 11:00:00";2,7;"< BG";Geprueft
+"2016-02-15 11:05:00";2,7;"< BG";Geprueft
+"2016-03-14 09:30:00";2,4;"< BG";Geprueft
+"2016-04-11 11:10:00";1,9;"< BG";Geprueft
+"2016-05-02 14:45:00";2,4;"< BG";Geprueft
+"2016-06-13 10:20:00";2,4;"< BG";Geprueft
+"2016-07-11 09:48:00";1,9;"< BG";Geprueft
+"2016-08-08 09:10:00";2,1;"< BG";Geprueft
+"2016-09-14 08:40:00";1,6;"< BG";Geprueft
+"2016-10-04 09:40:00";1,8;"< BG";Geprueft
+"2016-10-31 08:25:00";2,2;"< BG";Geprueft
+"2016-11-28 08:50:00";2,5;0,005;Geprueft

@@ -1,0 +1,21 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 14:50"
+Zeitbezug:;MEZ
+Messstellen-Name:;"Oberteisendorf, nördlich B304, uh. Steg"
+Messstellen-Nr.:;12732
+Gewässer:;"Oberteisendorfer Ache"
+Ostwert:;783348;Nordwert:;5307021;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2019-01-28 12:10:00";5,2;"< BG";Geprueft
+"2019-02-12 11:10:00";5,3;"< BG";Geprueft
+"2019-03-12 11:20:00";5,4;"< BG";Geprueft
+"2019-04-09 11:10:00";4,2;"< BG";Geprueft
+"2019-05-07 11:20:00";3,7;"< BG";Geprueft
+"2019-06-04 14:00:00";4,5;0,007;Geprueft
+"2019-07-02 10:50:00";3,9;"< BG";Geprueft
+"2019-07-30 11:10:00";4,6;"< BG";Geprueft
+"2019-08-20 11:30:00";3,00;"< BG";Geprueft
+"2019-09-24 11:25:00";3,6;"< BG";Geprueft
+"2019-10-22 11:30:00";3,9;"< BG";Geprueft
+"2019-11-19 10:10:00";4,7;"< BG";Geprueft

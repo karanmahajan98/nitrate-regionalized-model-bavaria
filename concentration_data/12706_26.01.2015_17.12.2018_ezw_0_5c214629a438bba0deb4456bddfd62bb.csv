@@ -1,0 +1,33 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 15:32"
+Zeitbezug:;MEZ
+Messstellen-Name:;"Steg uh. Hadermarkt"
+Messstellen-Nr.:;12706
+Gewässer:;"Stoißer Ache"
+Ostwert:;789833;Nordwert:;5301148;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2015-01-26 13:00:00";3,3;0,006;Geprueft
+"2015-02-23 12:05:00";2,6;"< BG";Geprueft
+"2015-03-23 12:15:00";2,9;"< BG";Geprueft
+"2015-04-27 12:35:00";2,4;"< BG";Geprueft
+"2015-05-18 12:00:00";2,4;0,007;Geprueft
+"2015-06-01 12:30:00";2,7;"< BG";Geprueft
+"2015-06-29 12:40:00";2,8;0,007;Geprueft
+"2015-07-20 11:15:00";2,6;0,007;Geprueft
+"2015-08-17 11:00:00";3,5;0,007;Geprueft
+"2015-09-08 12:10:00";3,00;0,009;Geprueft
+"2015-10-12 12:30:00";3,00;0,005;Geprueft
+"2015-11-09 12:20:00";2,4;"< BG";Geprueft
+"2018-01-23 11:00:00";2,7;0,012;Geprueft
+"2018-02-12 10:50:00";3,3;"< BG";Geprueft
+"2018-03-12 10:25:00";3,6;"< BG";Geprueft
+"2018-04-03 10:05:00";2,9;"< BG";Geprueft
+"2018-04-30 10:45:00";2,7;0,014;Geprueft
+"2018-05-28 11:34:00";2,3;"< BG";Geprueft
+"2018-06-25 12:00:00";2,9;0,014;Geprueft
+"2018-07-23 11:55:00";1,6;0,008;Geprueft
+"2018-08-13 10:10:00";2,7;"< BG";Geprueft
+"2018-09-11 10:15:00";3,00;0,007;Geprueft
+"2018-10-08 11:35:00";2,9;"< BG";Geprueft
+"2018-11-05 11:25:00";3,1;"< BG";Geprueft

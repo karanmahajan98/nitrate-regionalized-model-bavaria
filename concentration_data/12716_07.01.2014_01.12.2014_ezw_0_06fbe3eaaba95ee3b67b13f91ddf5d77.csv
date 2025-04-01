@@ -1,0 +1,20 @@
+﻿Quelle:;"Bayerisches Landesamt für Umwelt, www.gkd.bayern.de"
+Datenbankabfrage:;"23.11.2023 15:13"
+Zeitbezug:;MEZ
+Messstellen-Name:;"oh. Bichlbruck"
+Messstellen-Nr.:;12716
+Gewässer:;Saalach
+Ostwert:;794590;Nordwert:;5298915;"ETRS89 / UTM Zone 32N"
+
+Datum;"NO3 [mg/l]";"o-PO4-P [mg/l]";Prüfstatus
+"2014-01-07 08:30:00";4,1;"< BG";Geprueft
+"2014-01-27 08:20:00";3,7;"< BG";Geprueft
+"2014-02-24 08:00:00";4,00;0,005;Geprueft
+"2014-03-24 08:10:00";3,9;0,012;Geprueft
+"2014-04-23 07:55:00";2,8;0,006;Geprueft
+"2014-05-20 07:00:00";2,3;0,005;Geprueft
+"2014-06-16 08:35:00";2,7;"< BG";Geprueft
+"2014-07-15 07:50:00";2,4;0,007;Geprueft
+"2014-09-08 08:45:00";2,7;0,005;Geprueft
+"2014-10-06 08:20:00";2,5;"< BG";Geprueft
+"2014-11-03 08:50:00";2,6;"< BG";Geprueft
